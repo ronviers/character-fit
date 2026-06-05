@@ -1,0 +1,18 @@
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+.pytest_cache/
+.mypy_cache/
+
+# IDE / per-machine
+.vscode/
+.idea/
+*.swp
+.claude/
+
+# Regenerable artifacts (pictures, result staging)
+output/
+
+# Host profiler artifact — never commit (leak vector)
+dev_profile.json
