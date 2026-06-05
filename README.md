@@ -17,6 +17,10 @@ One file. It builds the minimal model, seals the expected reading, runs the
 reads, draws one picture, and prints `MATCH` / `MISS` / `KILL` against the seal.
 When it's done it leaves one result file behind. Then the next substrate.
 
+Honest simulators to start from — one per substrate, copy-and-adapt — live in
+[`simulators/`](simulators/). They are a larder, not a library; the going-forward
+script stands alone.
+
 ## Lineage
 
 Successor to the frozen `mpa-conform`. Everything that elaborated on the process
