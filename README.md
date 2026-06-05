@@ -9,7 +9,8 @@ signature and checks it against a sealed analytic answer. The skill lives in the
 recipe and in whoever is running it, not in a reusable machine.
 
 **The whole process is two cards: [`RECIPE.md`](RECIPE.md).** Read it; it is the
-repo.
+repo. Starting a session? [`HANDOFF.md`](HANDOFF.md) is the worklist — one new
+substrate netted per traversal.
 
 ## What a substrate looks like here
 

@@ -1,7 +1,8 @@
 # character-fit — session discipline
 
 Read [`RECIPE.md`](RECIPE.md) first. It is the entire process. This file is the
-only standing instruction beyond it.
+only standing instruction beyond it. Resuming? [`HANDOFF.md`](HANDOFF.md) is the
+worklist — it names the next substrate to net.
 
 - **Reinvent from scratch.** No shared framework, no imported pipeline, no
   abstraction built up front. One bespoke script per substrate. If two scripts
