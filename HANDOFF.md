@@ -21,6 +21,11 @@ before its verdict counts: an invalidator like `ou_equilibrium` must first be
 confirmed to honor FDT (X=1) so that an aging read there is a real false positive,
 not a bug in the run.
 
+A **deep scar counts too.** A traversal that surfaces a genuine, generalizable
+failure mode — a new line for THE TRAPS in the RECIPE — is a netted success even
+without a clean MATCH / MISS / KILL: the apparatus got sharper, which is the point.
+Record it in `RESULT.md` and propose the trap.
+
 ## How to pick the next one (tiered)
 
 1. **A real measured substrate whose numbers are in hand** — the prize, the thing
@@ -55,7 +60,7 @@ wright_fisher heston lotka_volterra levy_flight two_temp_ou kww_oracle` + the
 
 | substrate | kind | verdict | where |
 |---|---|---|---|
-| DNA-NESS (Nicholas 2025) | real, measured | MATCH — minted + protected + sustained; nonlinear cross-check confirmed | the worked exemplar, frozen at `mpa-conform/scripts/emergent_identity_dna_ness.py`; cited in `character-framework` as the one confirmed real instance |
+| DNA-NESS (Nicholas 2025) | real, measured | MATCH — minted + protected + sustained; nonlinear cross-check confirmed | [`dna_ness/`](dna_ness/) — the worked exemplar (read + cross-check + `view.png` + `RESULT.md`); also the framework's one confirmed real instance |
 
 ## NEXT
 
