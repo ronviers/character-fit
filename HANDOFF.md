@@ -48,7 +48,8 @@ Record it in `RESULT.md` and propose the trap.
   Known-hard: no perturbation protocol + artifact-dominated Var(J). Queue only
   when a two-frame read becomes reachable.
 - **A fresh lead** — source the next real substrate through the outbound research
-  channel; queue it once its numbers are in hand.
+  channel ([`SOURCING.md`](SOURCING.md) is the template); queue it once its numbers
+  are in hand.
 
 **Tier 2 — larder (cadence + falsification):** the 5 invalidators
 (`ou_equilibrium`, `ising_equilibrium`, `driven_ring`, `mm1_queue`,
